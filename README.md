@@ -12,3 +12,6 @@ The primary task is binary classification:
 | VITUMOR    | 1     | Tumor slide from a patient WITH vascular invasion    |
 
 The evaluation metric is patient-level log loss on external datasets from two institutions.
+## Getting Started
+## Environment Setup
+## Pipeline Overview
