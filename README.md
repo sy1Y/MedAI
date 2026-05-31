@@ -10,4 +10,5 @@ The primary task is binary classification:
 | ---------- | ----- | ---------------------------------------------------- |
 | NONVITUMOR | 0     | Tumor slide from a patient WITHOUT vascular invasion |
 | VITUMOR    | 1     | Tumor slide from a patient WITH vascular invasion    |
+
 The evaluation metric is patient-level log loss on external datasets from two institutions.
